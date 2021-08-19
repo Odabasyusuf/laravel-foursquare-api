@@ -2,7 +2,7 @@
 
 
 <div class="container">
-    <div class="row col-md-12 m-4 justify-content-center" style="width: 100%;">
+    <div class="row col-md-12 m-4 justify-content-center" style="">
         <div class="col-md-12 col-xl-6">
             <div class="card mb-0">
 
